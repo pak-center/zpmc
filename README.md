@@ -4,6 +4,10 @@
 ![GitHub](https://img.shields.io/github/license/pak-center/zpmc?style=plastic)
 #### Legacy code from BE thesis.
 Archive
+### Visuals
+![events](https://user-images.githubusercontent.com/125362872/224530851-0768f86d-ddd7-4c0b-87a1-1a8147a73cec.jpg)
+![seek](https://user-images.githubusercontent.com/125362872/224530858-dce31fa6-b90c-4e37-a54e-9b576cf921e2.jpg)
+![read](https://user-images.githubusercontent.com/125362872/224530861-8911ed2f-612c-42b4-8e35-3b1cb267f536.jpg)
 
 ---
 
