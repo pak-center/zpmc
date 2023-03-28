@@ -12,6 +12,8 @@
 
 z/VM Performance Monitor - zpm(c) is a Java client cooperating with database tables created by zpmd (z/VM Performance Monitor Daemon) software. It presents system usage and actual events. 
 
+### V0.6.0
+
 #### Archive
 
 ### Visuals
